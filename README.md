@@ -120,9 +120,9 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ~~~
 
 ## OUTPUT:
+<img width="858" height="372" alt="Screenshot 2025-09-21 163457" src="https://github.com/user-attachments/assets/c512e471-3280-4081-a04c-b72da051c1b8" />
 
-![alt text](<../Screenshot 2025-09-17 114142.png>)
-![alt text](<../Screenshot 2025-09-17 114805.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 163855" src="https://github.com/user-attachments/assets/7375de57-9e53-4cc3-8651-ee741b225f3b" />
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
